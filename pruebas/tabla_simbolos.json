@@ -1,0 +1,34 @@
+[
+  {
+    "id": "bonificarNotas",
+    "tipo": "funcion",
+    "ambito": "global",
+    "valor": null,
+    "linea": 1,
+    "columna": 0
+  },
+  {
+    "id": "main",
+    "tipo": "funcion",
+    "ambito": "global",
+    "valor": null,
+    "linea": 7,
+    "columna": 0
+  },
+  {
+    "id": "misNotas",
+    "tipo": "array",
+    "ambito": "bloque",
+    "valor": "[60,75,82,90]",
+    "linea": 8,
+    "columna": 4
+  },
+  {
+    "id": "i",
+    "tipo": "int32",
+    "ambito": "bloque",
+    "valor": 0,
+    "linea": 2,
+    "columna": 8
+  }
+]

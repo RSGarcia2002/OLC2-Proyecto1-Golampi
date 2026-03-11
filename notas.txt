@@ -1,0 +1,3 @@
+correr servidor: php -S localhost:8001   
+borrar carpeta : rm -rf ANTLRv4  
+generar gramatica: java -jar antlr-4.13.2-complete.jar -Dlanguage=PHP Grammar.g4 -visitor -o ANTLRv4
